@@ -1,1 +1,1 @@
-If you use any of the codes, please cite https://sites.google.com/site/jinxuphys2018/code/immune-response. Initial version of this paper is avaliable on arXiv https://arxiv.org/abs/1712.04633.
+If you use any of the codes, please cite the GitHub website. Initial version of this paper is avaliable on arXiv https://arxiv.org/abs/1712.04633.
