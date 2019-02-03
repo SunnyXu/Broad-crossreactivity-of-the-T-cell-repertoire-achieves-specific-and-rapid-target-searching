@@ -1,1 +1,1 @@
-If you use any of the codes, please cite the GitHub website (https://github.com/SunnyXu/Broad-crossreactivity-of-the-T-cell-repertoire-achieves-specific-and-rapid-target-searching). Initial version of this paper is avaliable on arXiv https://arxiv.org/abs/1712.04633.
+If you use any of the codes, please cite the paper (https://doi.org/10.1016/j.jtbi.2019.01.025) and the GitHub website (https://github.com/SunnyXu/Broad-crossreactivity-of-the-T-cell-repertoire-achieves-specific-and-rapid-target-searching).
